@@ -1,5 +1,5 @@
-Student Information System
-Overview
+###InfoCampus
+####Overview
 The InfoCampus is a C++ project designed to manage student records, including their personal and academic information. Built with modular C++ and managed using CMake, this system allows an admin to perform various operations, such as adding, updating, deleting, and viewing student details.
 
 Features
